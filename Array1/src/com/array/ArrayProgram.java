@@ -10,8 +10,9 @@ public class ArrayProgram {
 		arr[1] = 12;
 		arr[2] = 13;
 		arr[3] = 14;
+		arr[4] = 15;
 
-		for(int i=0; i<4; i++) {
+		for(int i=0; i<5; i++) {
 			System.out.println("array of the position "+ i + ":" + arr[i]);
 		}
 		
